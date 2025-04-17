@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 🔐 Environment Variables
+
+Create a `.env` file in the project root and add the following credentials:
+
+REACT_APP_APPMIXER_USERNAME=your_username
+REACT_APP_APPMIXER_PASSWORD=your_password
+
 ### `npm start`
 
 Runs the app in the development mode.\
